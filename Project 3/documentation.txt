@@ -1,0 +1,6 @@
+6. Explain your method that lead to better accuracy, what ideas or observations helped you achieve better accuracy on the dataset?
+
+Throughout the creation of the code, I thoroughly examined numerous components that needed to be addressed in order to improve the outcomes. First, I checked the dataset for null values, which might have harmed       the accuracy of the findings. After double-checking, I deleted any superfluous text that was unrelated to the topic at hand. Columns such as 'Name' were eliminated as part of this strategy because they contributed little to the research.
+
+Using the Mi Scores technique, I also evaluated the other columns depending on their importance to the final conclusion. This enabled me to identify and pick only the essential and necessary columns, resulting in a more streamlined and efficient model. The model's processing time was lowered by removing superfluous columns, and the analysis became more clear and easy to comprehend. Finally, the final dataset had just only important columns that were critical to getting the required results.
+
